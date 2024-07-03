@@ -20,7 +20,7 @@ This service provides functionality to retrieve and store country information, i
 
 ## Setup
 
-1. Clone the repository and navigate to the project directory or download the zip file and extract it
+1. Clone the repository from `https://github.com/Eve-rine/CountriesIntegration` and navigate to the project directory or download the zip file and extract it
 2. Configure your database connection in `application.properties`
 3. Build the project using Maven: `mvn clean install`
 4. Run the application using the maven plugin `mvn spring-boot:run`
